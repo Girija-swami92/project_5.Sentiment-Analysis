@@ -32,3 +32,8 @@ PyTorch / Transformers
 Pandas
 NumPy
 Matplotlib / Seaborn
+Streamlit Deployment:
+The final model was deployed using Streamlit to create an interactive web interface where users can:
+Enter custom review text
+Get real-time sentiment predictions    
+View prediction confidence scores
